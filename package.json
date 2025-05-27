@@ -38,7 +38,7 @@
     "access": "public"
   },
   "dependencies": {
-    "focus-visible": "^5.2.0",
+    "focus-visible": "^5.2.1",
     "v-tooltip": "^3.0.0-alpha.20",
     "vue-resize": "^1.0.0"
   },
